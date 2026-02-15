@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <img width="32" height="32" alt="social_html5_html_71" src="https://github.com/user-attachments/assets/3054aa0b-0d5e-44d3-8b9a-cc89cfaee28b" />
   <img width="32" height="32" alt="file_type_git_icon_130581" src="https://github.com/user-attachments/assets/44de92b8-fc19-44ad-9303-9f493546951c" />
   <img width="32" height="32" alt="github_git_icon_145985" src="https://github.com/user-attachments/assets/83bb05c9-1231-407e-8b9a-acdcdd40596a" />
+  <img width="32" height="32" alt="managed_service_postgre_sql_icon_265244" src="https://github.com/user-attachments/assets/b511e91a-9cea-4172-ab75-4d8e54dde835" />
+  <img width="32" height="32" alt="data_framework_application_web_docker_icon_265214" src="https://github.com/user-attachments/assets/5a389e31-d24d-4b75-88ea-f575535242e4" />
+
+
 
 
 
