@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img width="32" height="32" alt="managed_service_postgre_sql_icon_265244" src="https://github.com/user-attachments/assets/b511e91a-9cea-4172-ab75-4d8e54dde835" />
   <img width="32" height="32" alt="data_framework_application_web_docker_icon_265214" src="https://github.com/user-attachments/assets/5a389e31-d24d-4b75-88ea-f575535242e4" />
 
+[more from me](https://aydin0118.github.io/)
 
 
 
