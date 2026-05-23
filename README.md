@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aydinid@outlook.com
 
 - ⚡ Fun fact: She did not know you
+<img width="1280" height="720" alt="193b322cb3b4ceb2509adefac619aa43" src="https://github.com/user-attachments/assets/7a31addf-434f-4fe1-8823-5264afd60ad8" />
 
 
 [more from me](https://aydin0118.github.io/)
