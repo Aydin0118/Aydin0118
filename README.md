@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on High school studies
+- 🔭 I’m currently working on....  "It seems that I'm not busy at all."😁😁
 - 👯 I’m looking to collaborate on Establish an AI-related project
 - 🤔 I’m looking for help with financing
 - 📫 How to reach me: aydinid@outlook.com
