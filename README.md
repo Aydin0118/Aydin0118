@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aydin0118/Aydin0118/output/github-snake-dark.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Aydin0118/Aydin0118/output/github-snake.svg">
+</picture>
 - 🔭 I’m currently working on....  "It seems that I'm not busy at all."😁😁
 - 👯 I’m looking to collaborate on Establish an AI-related project
 - 🤔 I’m looking for help with financing
